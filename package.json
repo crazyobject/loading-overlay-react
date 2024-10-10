@@ -1,0 +1,32 @@
+{
+  "name": "loading-overlay-react",
+  "version": "1.0.2",
+  "description": "A customizable react loading overlay component for React applications that enhances user experience with seamless loading indicators. Multiple props which you can set for in detailed customization.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step required for this package.'"
+  },
+  "keywords": [
+    "loading",
+    "overlay",
+    "react",
+    "spinner",
+    "loading",
+    "spinner",
+    "react",
+    "component",
+    "customizable",
+    "loading",
+    "user",
+    "experience",
+    "loading",
+    "indicator",
+    "UI",
+    "utility",
+    "react",
+    "overlay"
+  ],
+  "author": "dhaneshmane",
+  "license": "MIT"
+}
